@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dahds
 
+=======
+qweqw
+>>>>>>> 7491d778d87b07ee22b917b6e12f0cbb6bb5df13
